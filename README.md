@@ -54,7 +54,7 @@ Open the terminal and type following commands.
 
 * unzip Tool-X
 
-* 
+* cd Tool-X
 
 * chmod +x install.aex
 
