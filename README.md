@@ -44,7 +44,9 @@ Open the terminal and type following commands.
 
 * `apt update`
 
-* `apt install git`
+* `apt install git'
+
+*  apt install unzip
 
 * `git clone https://github.com/Rajkumrdusad/Tool-X.git`
 
