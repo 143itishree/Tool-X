@@ -42,19 +42,23 @@ Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and o
 
 Open the terminal and type following commands.
 
-* `apt update`
+* apt update
 
-* `apt install git'
+* apt install git
 
-*  apt install unzip
+* apt install unzip
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* git clone https://github.com/143itishree/Tool-X 
 
-* `cd Tool-X`
+* cd Tool-X
 
-* `chmod +x install.aex`
+* unzip Tool-X
 
-* `sh install.aex` if not work than use `./install.aex`
+* 
+
+* chmod +x install.aex
+
+* sh install.aex` if not work than use `./install.aex`
 
 <br/>
 
